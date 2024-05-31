@@ -3,22 +3,8 @@
 
 Spearheading the development of Hygiefy, I'm thrilled to introduce a revolutionary project aimed at providing comprehensive mental wellness assistance through the power of Artificial Intelligence (AI). Our approach blends advanced technologies with a deep understanding of mental health dynamics to deliver a solution that's not only effective but also empathetic and user-centric.
 
-## Approach:
-
-### Understanding User Needs:
-Before diving into development, we conducted extensive research to understand the diverse needs and challenges individuals face regarding mental wellness. This user-centric approach guided every aspect of Hygiefy's design and functionality.
-
-### Leveraging Advanced AI:
-To ensure personalized and responsive support, we employed state-of-the-art Natural Language Processing (NLP) and Machine Learning (ML) techniques. These technologies enable Hygiefy to understand user queries, detect sentiment, and provide tailored responses.
-
-### Developing a Robust Chat Interface:
-Hygiefy's chat interface was meticulously designed to emulate human interaction while leveraging AI algorithms for efficiency and accuracy. We used technologies like TensorFlow and PyTorch to develop a robust conversational agent capable of engaging users in meaningful dialogue.
-
-### Ensuring Accessibility and Scalability:
-Accessibility and scalability were paramount considerations during development. We adopted cloud computing platforms like AWS and Google Cloud to ensure seamless 24/7 access to Hygiefy's services, accommodating users worldwide with varying levels of technological infrastructure.
-
-### Implementing Safety Measures:
-Safety and privacy are non-negotiable aspects of mental health support. We integrated advanced algorithms for thread identification and detection to safeguard users from harmful content or discussions. Additionally, stringent data protection measures were implemented to uphold user confidentiality.
+## Access:
+Visit https://t.me/Hygiefy_bot to access the Hygiefy Chatbot
 
 ## Key Features:
 
